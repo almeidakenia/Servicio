@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Prog Serv\Servicio\DateTimeService\DateTimeService\bin\Debug\DateTimeService.exe.config
+C:\Users\HP\source\repos\Prog Serv\Servicio\DateTimeService\DateTimeService\bin\Debug\DateTimeService.exe
+C:\Users\HP\source\repos\Prog Serv\Servicio\DateTimeService\DateTimeService\bin\Debug\DateTimeService.pdb
+C:\Users\HP\source\repos\Prog Serv\Servicio\DateTimeService\DateTimeService\obj\Debug\DateTimeService.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Prog Serv\Servicio\DateTimeService\DateTimeService\obj\Debug\DateTimeService.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Prog Serv\Servicio\DateTimeService\DateTimeService\obj\Debug\DateTimeService.DateTimeService.resources
+C:\Users\HP\source\repos\Prog Serv\Servicio\DateTimeService\DateTimeService\obj\Debug\DateTimeService.ProjectInstaller.resources
+C:\Users\HP\source\repos\Prog Serv\Servicio\DateTimeService\DateTimeService\obj\Debug\DateTimeService.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Prog Serv\Servicio\DateTimeService\DateTimeService\obj\Debug\DateTimeService.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Prog Serv\Servicio\DateTimeService\DateTimeService\obj\Debug\DateTimeService.exe
+C:\Users\HP\source\repos\Prog Serv\Servicio\DateTimeService\DateTimeService\obj\Debug\DateTimeService.pdb
